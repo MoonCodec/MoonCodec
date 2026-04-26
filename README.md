@@ -1,136 +1,105 @@
-<br>
-
 <p align="center">
-  <img src="https://i.imgur.com/GeYvbFa.png" width="100%" />
+  <img src="[https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif](https://imgur.com/GeYvbFa)" width="100%" />
 </p>
-
-<br>
 
 <h1 align="center">☁️ mooncodec ☁️</h1>
 
 <p align="center">
-  <i>🌙 coding under soft lights with a sleepy cat 🐱</i>
+  sleepy dev • cozy code • lofi nights 🌙
 </p>
-
-<br>
-
-<p align="center">✧･ﾟ: *✧･ﾟ:* 🌙 *:･ﾟ✧*:･ﾟ✧</p>
-
----
-
-<!-- pluie ambiance -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%" />
+  ⋆｡°✩ 🌙 ✩°｡⋆
 </p>
 
----
+<hr>
 
-### 🌸 about me
+<h3 align="center">🌸 about me</h3>
 
 <p align="center">
-
-🐱 coding with a cat next to me
-🌙 late nights, soft lights
-☕ coffee & quiet focus
-💭 building things slowly & peacefully
-
+🐱 coding with a cat next to me <br>
+🌙 late nights, soft lights <br>
+☕ coffee & quiet focus <br>
+☁️ building things slowly & peacefully
 </p>
 
----
-
-<p align="center">⋆｡°✩ 🌙🐾 ☁️ ✩°｡⋆</p>
-
----
-
-### 🌙 nightly routine
+<hr>
 
 <p align="center">
-
-🕯️ dim lights
-🐱 cat sleeping nearby
-🎧 lofi playing softly
-☕ coffee getting cold
-💻 code flowing slowly
-
+⋆｡°✩ 🐾 ✩°｡⋆
 </p>
 
----
-
-<p align="center">🌧️⋆｡°✩ code quietly ✩°｡⋆🌧️</p>
-
----
-
-### 🎧 current vibe
+<h3 align="center">🌙 nightly routine</h3>
 
 <p align="center">
-
-🎶 lofi hip hop / night loops
-🌧️ rain outside, window open
-🕯️ warm light / quiet room
-
+🕯️ dim lights & calm room <br>
+🐱 cat sleeping nearby <br>
+🎧 lofi playing softly <br>
+💻 coding slowly
 </p>
 
----
+<hr>
 
-<p align="center">⋆｡°✩ 🐾 ✩°｡⋆</p>
+<p align="center">
+⋆｡°✩ 🌌 ✩°｡⋆
+</p>
 
----
+<h3 align="center">🎧 current vibe</h3>
 
-### 🐾 tools
+<p align="center">
+lofi hip hop / night loops 🌙 <br>
+window open, calm night air 🍃 <br>
+warm light / quiet room 🕯️
+</p>
+
+<hr>
+
+<p align="center">
+⋆｡°✩ 🧸 ✩°｡⋆
+</p>
+
+<h3 align="center">🛠️ tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,java,html,css" />
 </p>
 
----
-
-<p align="center">☁️🐱☕</p>
-
----
-
-### ☁️ little space
+<hr>
 
 <p align="center">
-
-take it easy ♡
-code softly ☁️
-stay cozy 💤
-
+⋆｡°✩ ☁️ ✩°｡⋆
 </p>
 
----
-
-<p align="center">⋆｡°✩ ☁️ ✩°｡⋆</p>
-
----
-
-<!-- mini persona -->
+<h3 align="center">☁️ little space</h3>
 
 <p align="center">
-
-```
-   /\_/\  
-  ( -.- )   moon is coding...
-  >  ☕  <
-```
-
+take it easy ♡ <br>
+code softly ☁️ <br>
+stay cozy 🌙
 </p>
 
----
-
-<!-- typing effect -->
+<hr>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=AFAFFF&center=true&vCenter=true&width=500&lines=late+night+coding...;soft+lights+and+calm+mind...;stay+cozy+%E2%98%81%EF%B8%8F" />
+<pre>
+  /\_/\  
+ ( •• )  
+ / >🌙   moon is coding...
+</pre>
 </p>
 
----
-
-<br>
+<hr>
 
 <p align="center">
-  🌙🐱 thanks for stopping by 🐱🌙
+stay cozy ☁️
 </p>
 
-<br>
+<hr>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="100%" />
+</p>
+
+<p align="center">
+🌙🐱 thanks for stopping by 🐱🌙
+</p>
