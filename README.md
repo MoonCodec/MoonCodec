@@ -80,9 +80,13 @@ stay cozy 🌙
 
 <hr>
 
-<p align="center">
-  <img src="https://dummyimage.com/400x120/0d1117/c9a7ff&text=%20%20%2F%5C_%2F%5C%0A%20(%20%E2%80%A2%E1%B4%97%E2%80%A2%20)%0A%20%2F%20%3E%F0%9F%8C%99%20moon%20is%20coding..." />
-</p>
+<div align="center">
+<pre>
+  /\_/\
+ ( •ᴗ• )
+ / >🌙   moon is coding...
+</pre>
+</div>
 
 <hr>
 
