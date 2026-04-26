@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif](https://imgur.com/GeYvbFa)" width="100%" />
+  <img src="https://imgur.com/GeYvbFa" width="100%" />
 </p>
 
 <h1 align="center">☁️ mooncodec ☁️</h1>
