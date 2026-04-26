@@ -4,11 +4,7 @@
   <img src="https://i.imgur.com/GeYvbFa.png" width="100%" />
 </p>
 
-<!-- pluie top -->
-
-<p align="center">
-  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" />
-</p>
+<br>
 
 <h1 align="center">☁️ mooncodec ☁️</h1>
 
@@ -16,13 +12,11 @@
   sleepy dev • cozy code • lofi nights 💤
 </p>
 
+<br>
+
+<p align="center">⋆｡˚ ☁️ 𖦹 ☁️ ˚｡⋆</p>
+
 ---
-
-<!-- pluie -->
-
-<p align="center">
-  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" height="60"/>
-</p>
 
 ## 🌸 about me
 
@@ -31,35 +25,31 @@
 🐱 coding with a cat sleeping next to me
 🌙 late nights, soft lights, calm focus
 ☕ coffee, silence & slow progress
-💭 i build quietly, but consistently
+💭 building things slowly & peacefully
 
 </p>
 
 ---
 
-<!-- pluie -->
+<p align="center">⋆｡˚ 🐾 𖦹 🐾 ˚｡⋆</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" height="60"/>
-</p>
+---
 
-## 🎧 current atmosphere
+## 🎧 current vibe
 
 <p align="center">
 
 🎶 lofi hip hop / night loops
-🌧️ rain hitting the window
+🌧️ rain outside, window open
 🕯️ warm light / quiet room
 
 </p>
 
 ---
 
-<!-- pluie -->
+<p align="center">⋆｡˚ 🌙 𖦹 🌙 ˚｡⋆</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" height="60"/>
-</p>
+---
 
 ## 🐾 tools
 
@@ -69,11 +59,9 @@
 
 ---
 
-<!-- pluie -->
+<p align="center">⋆｡˚ ☕ 𖦹 ☕ ˚｡⋆</p>
 
-<p align="center">
-  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" height="60"/>
-</p>
+---
 
 ## ☁️ little space
 
