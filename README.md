@@ -82,11 +82,15 @@ stay cozy 🌙
 
 <div align="center">
 
-<pre style="display:inline-block;text-align:left;">
-  /\_/\
- ( •ᴗ• )
- / >🌙   moon is coding...
+<div align="center">
+
+<pre>
+   /\_/\
+  ( •ᴗ• )
+  / >🌙   moon is coding...
 </pre>
+
+</div>
 
 </div>
 
