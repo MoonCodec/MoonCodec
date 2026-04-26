@@ -9,22 +9,22 @@
 <h1 align="center">☁️ mooncodec ☁️</h1>
 
 <p align="center">
-  <i>sleepy dev • cozy code • lofi nights 💤</i>
+  sleepy dev • cozy code • lofi nights 💤
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 </p>
 
 <br>
 
-<p align="center">✦ ･ﾟ ☁️ ･ﾟ ✦</p>
+<p align="center">⋆｡𖦹°‧ 🌧️ ‧°𖦹｡⋆</p>
 
 ---
 
-### 🌸 about me
+## 🌸 about me
 
 <p align="center">
 
@@ -38,16 +38,16 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
 </p>
 
 ---
 
-<p align="center">✦ ･ﾟ 🌧️ ･ﾟ ✦</p>
+<p align="center">⋆｡𖦹°‧ 🐾 ‧°𖦹｡⋆</p>
 
 ---
 
-### 🎧 current atmosphere
+## 🎧 current atmosphere
 
 <p align="center">
 
@@ -57,37 +57,25 @@
 
 </p>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
-</p>
+<p align="center">⋆｡𖦹°‧ 🌙 ‧°𖦹｡⋆</p>
 
 ---
 
-<p align="center">✦ ･ﾟ 🐾 ･ﾟ ✦</p>
-
----
-
-### 🐾 tools
+## 🐾 tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,java,html,css" />
 </p>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:2b2d42&height=120&section=footer&text=late%20night%20coding...&fontSize=22&fontColor=ffffff"/>
-</p>
+<p align="center">⋆｡𖦹°‧ ☁️ ‧°𖦹｡⋆</p>
 
 ---
 
-<p align="center">✦ ･ﾟ 🌙 ･ﾟ ✦</p>
-
----
-
-### ☁️ little space
+## ☁️ little space
 
 <p align="center">
 
@@ -100,7 +88,7 @@ stay cozy 💤
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 </p>
 
 ---
