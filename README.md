@@ -80,15 +80,13 @@ stay cozy 🌙
 
 <hr>
 
-<div align="center">
-
-<pre align="center">
-  /\_/\  
- ( •• )  
- / >🌙   moon is coding...
-</pre>
-
-</div>
+<p align="center">
+  <code>
+  /\_/\ &nbsp;&nbsp;<br>
+ ( •• ) &nbsp;&nbsp;<br>
+ / &gt;🌙 &nbsp; moon is coding...
+  </code>
+</p>
 
 <hr>
 
