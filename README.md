@@ -81,8 +81,8 @@ stay cozy 🌙
 <hr>
 
 <pre>
-/\_/\  
-( •ᴗ• )   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=C9A7FF&vCenter=true&width=260&lines=moon+is+coding...;loading+ideas...;brewing+coffee...;stay+cozy..." />
+/\_/\
+( •ᴗ• )   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=C9A7FF&vCenter=true&width=220&lines=moon+is+coding...;brewing+coffee...;cozy+dev+mode..." style="vertical-align: middle;" />
 / >
 </pre>
 
