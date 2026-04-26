@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">☁️ hi, i'm MoonCodec ☁️</h1>
 
-<!--
-**MoonCodec/MoonCodec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  sleepy dev • cozy code • lofi vibes 💤
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌷 about me
+- 🐾 i like cats, calm nights & soft music  
+- 💻 building things slowly & peacefully  
+- ☕ coffee + coding = happiness  
+
+---
+
+### 🎧 currently vibing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID&cover_image=true&theme=novatorem" />
+</p>
+
+---
+
+### 🐱 tools i use
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,python" />
+</p>
+
+---
+
+### 🌙 little note
+> take it easy  
+> code softly  
+> stay cozy 💤
