@@ -4,7 +4,11 @@
   <img src="https://i.imgur.com/GeYvbFa.png" width="100%" />
 </p>
 
-<br>
+<!-- pluie top -->
+
+<p align="center">
+  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" />
+</p>
 
 <h1 align="center">☁️ mooncodec ☁️</h1>
 
@@ -12,17 +16,13 @@
   sleepy dev • cozy code • lofi nights 💤
 </p>
 
-<br>
+---
+
+<!-- pluie -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" height="60"/>
 </p>
-
-<br>
-
-<p align="center">⋆｡𖦹°‧ 🌧️ ‧°𖦹｡⋆</p>
-
----
 
 ## 🌸 about me
 
@@ -35,17 +35,13 @@
 
 </p>
 
-<br>
+---
+
+<!-- pluie -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" height="60"/>
 </p>
-
----
-
-<p align="center">⋆｡𖦹°‧ 🐾 ‧°𖦹｡⋆</p>
-
----
 
 ## 🎧 current atmosphere
 
@@ -59,9 +55,11 @@
 
 ---
 
-<p align="center">⋆｡𖦹°‧ 🌙 ‧°𖦹｡⋆</p>
+<!-- pluie -->
 
----
+<p align="center">
+  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" height="60"/>
+</p>
 
 ## 🐾 tools
 
@@ -71,9 +69,11 @@
 
 ---
 
-<p align="center">⋆｡𖦹°‧ ☁️ ‧°𖦹｡⋆</p>
+<!-- pluie -->
 
----
+<p align="center">
+  <img src="https://i.imgur.com/8kQEsHU.gif" width="100%" height="60"/>
+</p>
 
 ## ☁️ little space
 
@@ -83,12 +83,6 @@ take it easy ♡
 code softly ☁️
 stay cozy 💤
 
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180"/>
 </p>
 
 ---
