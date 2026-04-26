@@ -79,9 +79,8 @@ stay cozy 🌙
 </p>
 
 <hr>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C9A7FF&center=true&vCenter=true&width=300&lines=%2F%5C_%2F%5C;(%20%E2%80%A2%E1%B4%97%E2%80%A2%20);%2F+%3E%F0%9F%8C%99++moon+is+coding..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C9A7FF&center=true&vCenter=true&width=400&lines=%2F%5C_%2F%5C++(%E2%80%A2%E1%B4%97%E2%80%A2)++%2F+%3E%F0%9F%8C%99++moon+is+coding..." />
 </p>
 
 <hr>
