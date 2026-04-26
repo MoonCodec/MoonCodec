@@ -82,15 +82,11 @@ stay cozy 🌙
 
 <div align="center">
 
-<div align="center">
-
 <pre>
-   /\_/\
-  ( •ᴗ• )
-  / >🌙   moon is coding...
+/\_/\  
+( •ᴗ• )   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=C9A7FF&vCenter=true&width=260&lines=moon+is+coding...;loading+ideas...;brewing+coffee...;stay+cozy..." />
+/ >
 </pre>
-
-</div>
 
 </div>
 
